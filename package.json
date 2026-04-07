@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
-    "build": "vite build && tsc",        
+    "build": "chmod +x node_modules/.bin/vite && vite build && tsc",        
     "start": "node dist/server.js",       
     "preview": "vite preview",
     "clean": "rm -rf dist",
