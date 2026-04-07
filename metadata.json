@@ -1,0 +1,5 @@
+{
+  "name": "UniDash",
+  "description": "A comprehensive university productivity system with deterministic scheduling, project breakdown, and academic tracking.",
+  "requestFramePermissions": ["notifications"]
+}
